@@ -94,7 +94,7 @@ Mi  pasión se encuentra en el desarrollo backend, contribuyendo también al cre
   - Altera (Sep, 2022 - Mar, 2024)
 - **Soporte técnico**
     - Altera (Abr, 2021 - Sep 2022)
----
+
 
 
 ---
